@@ -1,0 +1,50 @@
+body{
+  background-color: #EEF2FF;
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Outfit', sans-serif;
+}
+.container{
+  background-color: white;
+  display: inline-block;
+  border-radius: 10%;
+  width: 18%;
+  text-align: center;
+
+}
+.top{
+  height: 150px;
+}
+.bot{
+  height: 150px;
+}
+h3{
+
+
+  margin: auto;
+
+
+}
+@media only screen and (max-width: 375px) {
+  body {
+    margin: auto;
+  }
+  @media only screen and (max-width: 1440px) {
+    body {
+      margin: auto;
+    }
+}
+}
+.QR{
+  height: 240px;
+  width: 240px;
+  padding: 10px 10px 10px 10px;
+  margin: auto;
+  border-radius: 10%;
+  border-color: white;
+  border-width: thin 10px;
+}
+p{
+  padding-bottom: 10px;
+  margin: auto;
+}
