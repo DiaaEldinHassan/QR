@@ -1,0 +1,287 @@
+html {
+  background: url(https://c1.wallpaperflare.com/preview/427/745/192/notebook-natural-laptop-macbook.jpg) no-repeat center fixed;
+  background-size: cover;
+}
+
+body {
+
+  color: #E4D1B9;
+  text-align: center;
+}
+
+/*=======================================================*/
+table {
+  font-family: 'Reem Kufi', sans-serif;
+  color: black;
+  text-align: right;
+  border-right: solid white;
+}
+
+.med {
+  width: 100%;
+}
+
+/*=======================================================*/
+.top-cloud {
+  position: absolute;
+ right: 1px;
+  top: -6px;
+}
+
+/*=======================================================*/
+div {
+  text-align: center;
+  display: inline-block;
+}
+
+/*=======================================================*/
+.container {
+  position: relative;
+  height: 500px;
+  width: 500px;
+  font-family: 'Updock', cursive;
+  font-size: 30px;
+  text-align: center;
+}
+
+/*=======================================================*/
+h1 {
+  color: #7DB9B3;
+  padding-bottom: -100px;
+
+}
+
+h2 {
+  text-shadow: 1px 1px black;
+  color: #7DB9B3;
+  font-weight: normal;
+}
+
+h3 {
+  color: black;
+  text-decoration: underline;
+}
+
+h4 {
+  color: #7DB9B3;
+}
+
+/*=======================================================*/
+.bottom-cloud {
+  position: absolute;
+
+}
+.bottom-cloud1{
+  position: relative;
+  text-align: center;
+  right: -200px;
+
+}
+.bottom-cloud2{
+  center;
+  padding-top: 100px;
+}
+
+/*=======================================================*/
+.sun {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  right: 0px;
+  border-radius: 50%;
+}
+
+/*=======================================================*/
+hr {
+  width: 5%;
+  border-top-style: dotted;
+  border-width: thick;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  background-color: inherit;
+}
+
+/*=======================================================*/
+.Dia {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+/*=======================================================*/
+form {
+  position: relative;
+}
+
+/*=======================================================*/
+.cn {
+  text-align: left;
+  text-decoration: underline;
+}
+
+/*=======================================================*/
+.w3-container {
+  padding: 2px;
+}
+
+/*=======================================================*/
+.cs {
+  position: relative;
+  left: 10px;
+  bottom: -10px;
+}
+
+/*=======================================================*/
+.text {
+  text-align: center;
+  margin: 2px;
+  position: absolute;
+  left: 465px;
+}
+
+/*=======================================================*/
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/*=======================================================*/
+.fa:hover {
+  opacity: 0.7;
+}
+
+/*=======================================================*/
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  position: inherit;
+  left: 2px;
+
+}
+
+/*=======================================================*/
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+
+}
+
+/*=======================================================*/
+/*button*/
+.btn {
+  background: #7DB9B3;
+  background-image: -webkit-linear-gradient(top, #7DB9B3, #2980b9);
+  background-image: -moz-linear-gradient(top, #7DB9B3, #2980b9);
+  background-image: -ms-linear-gradient(top, #7DB9B3, #2980b9);
+  background-image: -o-linear-gradient(top, #7DB9B3, #2980b9);
+  background-image: linear-gradient(to bottom, #7DB9B3, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 6px 12px 6px 12px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+/*=======================================================*/
+
+/*=======================================================*/
+.skill-row {
+  text-align: left;
+}
+/*=======================================================*/
+
+.skills {
+  text-align: center;
+  text-decoration: underline;
+
+}
+
+/*======================================================*/
+.prog {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+  position: inherit;
+  float: left;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.pg{
+  text-align: right;
+  padding-top: 50px;
+}
+
+/*======================================================*/
+.football {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+  float: right;
+  padding-left: 20px;
+  padding-right: 20px;
+  position: inherit;
+}
+.ft{
+  text-align: left;
+  padding-top: 50px;
+}
+
+/*======================================================*/
+.em {
+  font-size: 5.625rem;
+  margin-top: 5px;
+
+}
+.bottom-container{
+  background-color: #E4D1B9;
+  display: block;
+  color: black;
+  padding: 20px 0 10px 0;
+}
+.btnn{
+  background-color: #E4D1B9;
+  width: 100%;
+}
+.contact-me{
+  background-color: #E4D1B9;
+  width: 100%;
+  color: black;
+}
+.bn{
+  background-color: #E4D1B9;
+  width: 100%;
+}
+.tbb{
+  background: url(https://cdn.dribbble.com/users/595119/screenshots/13793037/media/69f2719e986744f56ec1ead3916ddc7d.png?compress=1&resize=400x300) ;
+  margin: 0px 0px 0px 0px;
+  background-color: #1C0A00;
+  text-align: left;
+  position: relative;
+  width: 100%;
+  color: black;
+}
+.Tb{
+  color:black;
+}
+.txt{
+  color: black;
+}

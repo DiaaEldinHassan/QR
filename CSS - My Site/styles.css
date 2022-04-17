@@ -1,0 +1,29 @@
+body{
+  margin: 0;
+}
+.blue {
+  background-color: blue;
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  left:100px;
+  display:block;
+  top: 100px;
+}
+
+.yellow {
+  background-color: yellow;
+  height: 100px;
+  width: 100px;
+  display: block;
+}
+
+.red {
+  background-color: red;
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  left: 200px;
+  display: block;
+  top: 200px;
+}
